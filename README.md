@@ -1,2 +1,2 @@
 # SQLiteProject
-Little Dataset analysis with SQLite Database
+CIT open Dataset analysis with SQLite Database and python
